@@ -23,7 +23,7 @@
         ><input type="text" v-model="productDescription" />
       </div>
       <div>
-        <button>Create Product</button>
+        <button>Create Product Here</button>
       </div>
     </form>
   </div>
